@@ -2,3 +2,5 @@ Menu: Sandwitch
 Fries
 cold drinks
 pastas
+pizzas
+fruit juices
