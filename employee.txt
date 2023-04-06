@@ -1,0 +1,6 @@
+I m taking a session based on devops 
+where i got a chance to explain Agile methodologies
+I am happy to have a interactive team 
+
+so today i have completed the CI part with github
+planning for CD part with docker next day
